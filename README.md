@@ -1,7 +1,9 @@
 # Disjoint-Domains
-This repository contains data for "Exploiting Domain and Program Structure to Synthesize Efficient and Precise Data Flow Analyses"
+This repository contains data for "Exploiting Domain and Program Structure to Synthesize Efficient and Precise Data Flow Analyses" 
+by Elena Sherman and Matthew B. Dwyer
 
 There are three top-level directories
+src - the source code of the analysis, it has its own readme inside
 artifacts -- contains 19 classes used in the experiments
 domain -- contains 27 files with domain descriptions
 

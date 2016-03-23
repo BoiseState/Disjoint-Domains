@@ -34,7 +34,7 @@
  *      You should have received a copy of the GNU Lesser General Public License
  *      along with Adventure.  If not, see <http://www.gnu.org/licenses/>.
  ******************************************************************************/
-package test;
+
 //http://sourceforge.net/projects/e-adventure
 
 import java.awt.FontMetrics;

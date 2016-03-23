@@ -1,4 +1,4 @@
-package test;
+
 //http://sourceforge.net/projects/huf
 
 /* -*-mode:java; c-basic-offset:2; -*- */

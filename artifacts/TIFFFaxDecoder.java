@@ -1,4 +1,4 @@
-package test;
+
 //http://sourceforge.net/projects/acornkernel
 
 import java.awt.image.WritableRaster;

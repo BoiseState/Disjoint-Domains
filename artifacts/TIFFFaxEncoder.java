@@ -1,5 +1,5 @@
 //package net.tye.jai;
-package test;
+
 //http://sourceforge.net/projects/acornkernel
 
 class TIFFFaxEncoder {

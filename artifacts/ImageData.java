@@ -9,7 +9,7 @@
  *     IBM Corporation - initial API and implementation
  *******************************************************************************/
 //package org.eclipse.swt.graphics;
-package test;
+
 //http://sourceforge.net/projects/abbot
 
 //import java.io.*;

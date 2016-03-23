@@ -14,7 +14,7 @@
  *  You should have received a copy of the GNU General Public License
  *  along with aion-yustiel.  If not, see <http://www.gnu.org/licenses/>.
  */
-package test;
+
 //http://sourceforge.net/projects/optimisation
 
 import java.io.File;

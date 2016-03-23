@@ -1,7 +1,7 @@
 /*
  * created: 2004/10/04
  */
-package test;
+
 //http://sourceforge.net/projects/atevents
 
 public class QRCodeDataBlockReader {

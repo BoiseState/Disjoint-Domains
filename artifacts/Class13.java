@@ -1,4 +1,3 @@
-package test;
 //http://sourceforge.net/projects/tgxn317
 
 public final class Class13 {

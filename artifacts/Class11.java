@@ -1,4 +1,3 @@
-package test;
 
 //http://sourceforge.net/projects/tgxn317
 

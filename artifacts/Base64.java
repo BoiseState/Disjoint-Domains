@@ -17,7 +17,6 @@
 
 /* package org.apache.xml.security.utils; */
 
-package test;
 //http://sourceforge.net/projects/infoeng
 
 import java.io.BufferedReader;

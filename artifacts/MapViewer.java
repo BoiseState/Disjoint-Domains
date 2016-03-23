@@ -1,4 +1,4 @@
-package test;
+
 //http://sourceforge.net/projects/web1856
 
 import java.awt.*;

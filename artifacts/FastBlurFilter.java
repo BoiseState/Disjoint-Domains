@@ -33,7 +33,7 @@
  */
 
 //package org.jdesktop.swingx.image;
-package test;
+
 //http://sourceforge.net/projects/asubversiongui
 
 import java.awt.image.BufferedImage;
