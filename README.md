@@ -40,6 +40,6 @@ dom9_8 - large DD_ 1
 dom91_81 - large DD_ 2
 dom92_82 - large DD_ 3
 
-experiment -- contains two folders accuracy and time with with the corresponding experiment data
+experiment -- contains two folders accuracy and time with the corresponding experiment data
 experiment/accuracy -- contains the results of analyses as state description in smt2 format. Each file contains data for all methods for corresponding domain. sN suffix means no black transfer function and sY means that block transfer function was enabled.
 experiment/time -- timeData1 contains running time(x3) per method for small domains, timeData2 for medium domains and timeData3 for large domains
